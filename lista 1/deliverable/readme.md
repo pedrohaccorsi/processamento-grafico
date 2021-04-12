@@ -1,6 +1,6 @@
 # List 01
 
-This repository contains the exercicios proposed by list 01 of the subject *Programação Gráfica*.
+This repository contains the exercicios proposed by list 01 of the subject *Processamento Gráfico*.
 
 | ex number | source                          | executable                  |
 |-----------|---------------------------------|-----------------------------|
