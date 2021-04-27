@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(126,40): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(126,26): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(145,50): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(145,36): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(145,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(165,51): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(165,37): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(165,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(184,61): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(184,47): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(184,34): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\CameraOrtho\Source.cpp(184,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  CameraOrtho.vcxproj -> C:\Users\I866336\Documents\github\github.com\PG2021-1\CameraOrtho\Debug\CameraOrtho.exe
