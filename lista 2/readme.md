@@ -1,4 +1,4 @@
-# List 01
+# List 02
 
 This repository contains the exercicios proposed by list 02 of the subject *Processamento Gráfico*.
 

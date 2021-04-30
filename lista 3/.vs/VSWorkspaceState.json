@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ex-02-three-triangles",
+    "\\ex-02-three-triangles\\HelloTriangle",
+    "\\ex-02-three-triangles\\HelloTriangle\\HelloTriangle",
+    "\\ex-03-three-colors",
+    "\\ex-03-three-colors\\HelloTriangle",
+    "\\ex-03-three-colors\\HelloTriangle\\HelloTriangle"
+  ],
+  "SelectedNode": "\\ex-03-three-colors\\HelloTriangle\\HelloTriangle\\Source.cpp",
+  "PreviewInSolutionExplorer": false
+}
