@@ -2,9 +2,9 @@
 
 This repository contains the exercicios proposed by list 04 of the subject *Processamento Gráfico*.
 
-| ex number | source                          | executable                  |
-|-----------|---------------------------------|-----------------------------|
-| 01        | [source.cpp](./src/Source.cpp)  | [app.exe](./app)            |
+| ex number | source                          | executable   |
+|-----------|---------------------------------|--------------|
+| 01        | [source.cpp](./src/Source.cpp)  | [app](./app) |
 
 
 ## Running in Windows
@@ -16,11 +16,16 @@ This said, Im't not sure how to make this project run in Windows.
 
 ## Running in Linux
 
-`shell
+```shell
 $ g++ src/Source.cpp src/glad.c src/SceneManager.cpp src/Sprite.cpp src/stb_image.cpp -g -o app -Iinclude -lglfw -ldl^C
 $ ./app
-` 
+``` 
 
-And there you are:
+## Scene
+
+My exercise consists in a scene with three objects, each one with a different texture
+- background
+- naruto
+- sasuke
 
 ![picture](img/scene.png)
