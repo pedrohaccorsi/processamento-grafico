@@ -17,7 +17,7 @@ This said, Im't not sure how to make this project run in Windows.
 ## Running in Linux
 
 ```shell
-$ g++ src/Source.cpp src/glad.c src/SceneManager.cpp src/Sprite.cpp src/stb_image.cpp -g -o app -Iinclude -lglfw -ldl^C
+$ g++ src/Source.cpp src/glad.c src/SceneManager.cpp src/Sprite.cpp src/stb_image.cpp -g -o app -Iinclude -lglfw -ldl
 $ ./app
 ``` 
 
