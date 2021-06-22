@@ -1,6 +1,6 @@
-# List 04
+# List 05
 
-This repository contains the exercicios proposed by list 04 of the subject *Processamento Gráfico*.
+This repository contains the exercicios proposed by list 05 of the subject *Processamento Gráfico*.
 
 | ex number | description           | source                            | executable      |
 |-----------|-----------------------|-----------------------------------|-----------------|
